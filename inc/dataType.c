@@ -29,7 +29,15 @@ void printDataType(void){
 
     /**
      * Probar hacer lo mismo con:
-     *  unsigned int, short, unsigned short, long, unsigned long, float, double, long double
-     *
+     *  unsigned int
+     *  short
+     *  unsigned short, 
+     *  long
+     *  unsigned long
+     *  float
+     *  double
+     *  long double
+     *  uint
+     *  ulong
     */
 }
